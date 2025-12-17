@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: zucktotem
+## Notes: Tracks totems and shaman utility for Zucktana.
+## Author: Zucktana
+ZuckTotem.lua
